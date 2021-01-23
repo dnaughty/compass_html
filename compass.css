@@ -1,0 +1,9 @@
+body {
+  background: url('cont_compass3.png') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: contain;
+  -o-background-size: cover;
+}
+
+
